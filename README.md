@@ -1,5 +1,5 @@
 # MazeSolver
-Android App, solves labyrinth from it's image/photo
+Android App, solves labyrinth from it's image/photo, using A* algorithm. Build on Kotlin
 
 <img src="https://user-images.githubusercontent.com/69370969/145280505-2bf794ea-8b7e-4603-901b-6ccd4e6455b6.png" height="500">
 
